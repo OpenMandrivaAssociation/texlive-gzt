@@ -1,6 +1,6 @@
 Name:		texlive-gzt
-Version:	63591
-Release:	2
+Version:	70532
+Release:	1
 Summary:	Bundle of classes for "La Gazette des Mathematiciens"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gzt
