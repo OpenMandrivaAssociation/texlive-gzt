@@ -3,7 +3,7 @@ Version:	70532
 Release:	1
 Summary:	Bundle of classes for "La Gazette des Mathematiciens"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gzt
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gzt
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gzt.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gzt.doc.r%{version}.tar.xz
